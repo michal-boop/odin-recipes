@@ -1,0 +1,30 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #f0c693;
+}
+
+.index {
+    background-color: #faebd7;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5%;
+}
+
+ul {
+    list-style-type: none;
+    list-style-position: outside;
+}
+
+li {
+    font-size: large;
+    color: #311307;
+    padding: 10px;
+    text-transform: uppercase;
+    font-weight: 800;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    color:#311307;
+}
