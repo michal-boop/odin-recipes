@@ -29,14 +29,21 @@ img {
     align-items: center;
 }
 
+.container{
+    display: flex;
+    justify-content: center;
+}
+
 .back {
+    width: 400px;
+    margin: auto;
     text-align: center;
     font-weight: 800;
     font-size: 28px;
     text-transform: uppercase;
     background-color: #faebd7;
-    padding: 10px;
-    border-radius: 5%;
+    padding: 20px;
+    border-radius: 15%;
 }
 
 .pics {
